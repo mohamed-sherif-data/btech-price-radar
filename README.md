@@ -5,7 +5,9 @@
 
 **العرض المباشر:** https://crop-risk--btech-price-radar-web.us-east.modal.run
 
-![تقرير مرصد الأسعار](screenshots/report.png)
+| قبل — صفحة التصنيف في B.TECH | بعد — التقرير المُولَّد |
+|---|---|
+| ![صفحة المصدر](screenshots/btech-source.png) | ![التقرير](screenshots/report.png) |
 
 ---
 
